@@ -1,0 +1,10 @@
+{
+  "name": "node-url",
+  "description": "The core `url` packaged standalone for use with Browserify and Duo.",
+  "version": "1.0.0",
+  "dependencies": {
+    "bestiejs/punycode.js": "*"
+  },
+  "scripts": ["url.js"],
+  "license": "MIT"
+}
